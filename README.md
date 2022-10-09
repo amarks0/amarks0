@@ -35,5 +35,5 @@
 
 <!--END_SECTION:activity-->
 </details>
-![snake gif]
-(https://github.com/amarks0/amarks0/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/amarks0/amarks0/blob/output/github-contribution-grid-snake.svg)
