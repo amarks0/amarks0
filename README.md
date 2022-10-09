@@ -27,14 +27,18 @@
 <summary>
   <h2>:zap: GitHub Stats</h2>
 </summary>
-  <img align="left" alt="amarks' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amarks0&theme=dark&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amarks0&theme=tokyonight&dates=8b8b8b" />
-  
-  <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks0&theme=aura"/>
-<p> <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks0&theme=aura"/><p>
+  <div style="inline_block">
+   <img  alt="amarks' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amarks0&theme=tokyonight&show_icons=true" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=amarks0&theme=tokyonight&dates=8b8b8b" />
+    </div>
+  <div align="center" style="inline_block">
+    <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks0&theme=tokyonight"/>
+</div>
 <br>
 </details>
-<div style="display: inline_block" >
+
+<br>
+<div align="center" style="display: inline_block" >
   <br>
   <img align="left" width="25%" src="https://media4.giphy.com/media/Us2PJJGbkKyD6xqBT3/giphy.gif?cid=ecf05e47dkz69tiiwrbntotjc0woe9uypq1xcble4zxcezlj&rid=giphy.gif&ct=g">
 <img align="right" src="https://github.com/amarks0/amarks0/blob/output/github-contribution-grid-snake.svg" width="70%">
