@@ -5,21 +5,27 @@
 </p>
  </h2>
 
-
-###  Languages, Tools and Interests
-
-
- 
-<p align="">
+<h2 align="center">💡 Known Languages & Tools</h2>
+<br>
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,aws,bootstrap,css,codepen,express,heroku,html,js,linux,mongodb,nextjs,nodejs,react,styledcomponents,tailwind,ts,vite,py,redis,regex,perl&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,bootstrap,css,codepen,express,html,js,jest,jquery,linux,mongodb,nextjs,nodejs,react,styledcomponents,tailwind,redis,regex,perl,md,figma&theme=dark&perline=12" />
+  </a>
+</div>
+
+<h2 align="center">📝 Learning/Want To Learn</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,sass,heroku,styledcomponents,ts,vite,php,py,perl&theme=dark" />
   </a>
 </p>
 
-
+<h2 align="center">💻 Latest Projects</h2>
+<br>
 <details>
 <summary>
-  <h3>:zap: GitHub Stats</h3>
+  <h2>:zap: GitHub Stats</h2>
 </summary>
   <img align="left" alt="amarks' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amarks0&theme=dark&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amarks0&theme=tokyonight&dates=8b8b8b" />
@@ -27,13 +33,7 @@
   <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks0&theme=aura"/>
 <p> <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarks0&theme=aura"/><p>
 <br>
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 </details>
-
-![snake gif](https://github.com/amarks0/amarks0/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/amarks0/amarks0/blob/output/github-contribution-grid-snake.svg" width="100%">
+</div>
